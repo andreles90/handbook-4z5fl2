@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andreles90.github.io/handbook-4z5fl2/sitemap.xml
